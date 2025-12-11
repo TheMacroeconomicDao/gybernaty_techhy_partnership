@@ -267,7 +267,7 @@
 - [ ] MARKETING_STRATEGY_V2.md готов
 - [ ] Implementation Guides созданы
 - [ ] Templates & Checklists готовы
-- [ ] README.md изучен
+- [ ] README_MARKETING_STRATEGY_V2.md изучен
 
 ### Инструменты
 - [ ] Аналитика настроена
