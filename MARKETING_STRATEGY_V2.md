@@ -34,7 +34,11 @@
 
 ### 1.1. О проекте
 
-**TECH HY Venture Club** — экосистема нового поколения на пересечении AI, Web3 и омничейн-инфраструктуры, созданная для поддержки стартапов, предпринимателей и компаний, стремящихся масштабировать свои продукты и технологии.
+**TECH HY Venture Club** — community-driven, tokenized venture club, основанный Michael Hypov, который трансформирует Web3 venture landscape через создание безопасной, прозрачной и community-driven экосистемы для стартапов и инвесторов. 
+
+Работает как **all-in-one B2B service marketplace**, предоставляя комплексные end-to-end решения для устойчивого роста на любом этапе бизнеса: Business Growth (консалтинг, networking, HR, legal, AI automation), Sales Growth (business development, маркетинг, AI-powered outreach), PR & Reputation Growth (брендинг, community growth, SEO, KOL collaborations), Funds Growth (project reviews, investor outreach через сеть 1500+ VC, tokenomics).
+
+Экосистема TECH HY также включает медиа-платформу (Substack, X Spaces, подкасты, публичный бизнес-журнал на Telegram), AI Content Factory, dual-token economy ($VC/$VG), партнерства (TaskOn, Gybernaty) и доступ к институциональному Web3 через Canton Network.
 
 **Технологическое ядро:** Gybernaty — децентрализованное сообщество исследователей и разработчиков (cybersocial corporation), создающее open source экосистему в области AI, Web3, cross-chain integration, blockchain, DLT, distributed computing и AI. 
 
