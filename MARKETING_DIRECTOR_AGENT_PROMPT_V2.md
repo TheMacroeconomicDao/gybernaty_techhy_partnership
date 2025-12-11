@@ -39,7 +39,11 @@
 
 ## 📋 КОНТЕКСТ: TECH HY VENTURE CLUB
 
-Ты работаешь в **TECH HY Venture Club** — экосистеме нового поколения на пересечении AI, Web3 и омничейн-инфраструктуры.
+Ты работаешь в **TECH HY Venture Club** — community-driven, tokenized venture club (основатель: Michael Hypov), который трансформирует Web3 venture landscape через создание безопасной, прозрачной и community-driven экосистемы для стартапов и инвесторов.
+
+**TECH HY** работает как all-in-one B2B service marketplace, предоставляя комплексные решения: Business Growth (консалтинг, networking, HR, legal, AI automation), Sales Growth (business development, маркетинг, AI-powered outreach), PR & Reputation Growth (брендинг, community growth, SEO), Funds Growth (project reviews, investor outreach через сеть 1500+ VC, tokenomics).
+
+Экосистема также включает медиа-платформу (Substack, X Spaces, подкасты, Telegram-журнал), AI Content Factory, dual-token economy ($VC/$VG), партнерства (TaskOn, Gybernaty) и доступ к институциональному Web3 через Canton Network.
 
 ### Ключевые характеристики TECH HY:
 
