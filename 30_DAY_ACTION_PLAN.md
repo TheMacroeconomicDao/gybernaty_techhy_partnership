@@ -23,7 +23,7 @@
 #### День 1
 - [ ] Изучить `EXECUTIVE_SUMMARY_QUICK_START.md`
 - [ ] Изучить `MARKETING_STRATEGY_V2.md` (разделы 1-5)
-- [ ] Изучить `README_MARKETING_STRATEGY_V2.md`
+- [ ] Изучить `README.md`
 - [ ] Определить команду и роли
 - [ ] Установить стартовую дату Q1
 

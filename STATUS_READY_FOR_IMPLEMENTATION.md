@@ -21,10 +21,10 @@
    - ✅ Раздел 2 обновлен актуальными данными 2024-2025
    - ✅ Метрики обновлены актуальными бенчмарками
 
-3. **README_MARKETING_STRATEGY_V2.md**
-   - ✅ Руководство по использованию документации
-   - ✅ Процесс работы с документацией
-   - ✅ Чеклист готовности
+3. **README.md**
+   - ✅ Объединенное руководство по использованию документации
+   - ✅ Описание партнерства и структуры документации
+   - ✅ Процесс работы и навигация
 
 ### ✅ Implementation Guides
 
@@ -101,7 +101,7 @@
 - [x] MARKETING_STRATEGY_V2.md готов (17 разделов, раздел 2 обновлен)
 - [x] Implementation Guides созданы (4 руководства)
 - [x] Templates & Checklists готовы (2 файла)
-- [x] README_MARKETING_STRATEGY_V2.md создан
+- [x] README.md создан (объединен из двух файлов)
 - [x] EXECUTIVE_SUMMARY_QUICK_START.md создан
 - [x] 30_DAY_ACTION_PLAN.md создан
 - [x] RESEARCH_PLAN создан (исследование проведено, данные интегрированы)
@@ -144,7 +144,7 @@ TECHHY-MARKETING-STARATEGY/
 ├── EXECUTIVE_SUMMARY_QUICK_START.md (быстрый старт)
 ├── 30_DAY_ACTION_PLAN.md (план на 30 дней)
 ├── MARKETING_STRATEGY_V2.md (основной документ)
-├── README_MARKETING_STRATEGY_V2.md (руководство)
+├── README.md (объединенное руководство)
 ├── RESEARCH_PLAN_FOR_MARKETING_STRATEGY_V2.md (план исследования)
 ├── STATUS_READY_FOR_IMPLEMENTATION.md (этот файл)
 │

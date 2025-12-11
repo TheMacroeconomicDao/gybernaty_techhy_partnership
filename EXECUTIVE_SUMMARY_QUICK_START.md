@@ -210,7 +210,7 @@ Advocacy (Коммьюнити, рекомендации, UGC)
 ### Основные документы
 1. **MARKETING_STRATEGY_V2.md** — полная стратегия (17 разделов)
 2. **30_DAY_ACTION_PLAN.md** — план на первые 30 дней
-3. **README_MARKETING_STRATEGY_V2.md** — руководство по использованию
+3. **README.md** — руководство по использованию документации
 4. **GYBERNATY_PARTNERSHIP_DETAILS.md** — детальная информация о партнерстве с Gybernaty
 
 ### Implementation Guides

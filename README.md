@@ -52,8 +52,7 @@
 - All-in-one B2B service marketplace
 - Community-driven экосистема с сетью 1500+ VC
 - Tokenized venture club с dual-token economy
-- Медиа-платформа и AI Content Factory
-- Доступ к институциональному Web3 через Canton Network
+
 
 **Вместе** — это экосистемный подход, где технологии доступны через open source, знания структурированы и применимы, коммьюнити активно помогает, а интеграция занимает дни вместо лет.
 
