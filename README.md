@@ -17,9 +17,12 @@
 **Cybersocial Corporation** — новая форма сотрудничества, где каждый может предложить идею, найти команду и вместе реализовать амбициозные проекты. Это как Y Combinator, но для децентрализованного мира: здесь нет центрального офиса, но есть общая миссия — делать технологии открытыми, доступными и реально работающими.
 
 **Ключевые проекты:**
-- **LQD** — AI-Assets-Manager для управления криптоактивами
 - **SAPP** — безопасный децентрализованный мессенджер на IPFS
 - **DSP** — Decentralized Social Platform с DAO управлением
+- **T-Copilot** — AI-Finansist Личный брокер и аналитик финансовых инструментов
+- **MSS** — Multi Swarm System
+- **MAX** — Max Marketing Swarm System 
+- **LQD** — AI-Assets-Manager для управления криптоактивами
 - **Contact** — Telegram Social Network
 
 ### TECH HY Venture Club
