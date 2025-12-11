@@ -1,0 +1,16 @@
+## Команды для создания репозитория на GitHub
+
+1. Создайте репозиторий на GitHub:
+   - Название: gybernaty_techhy_partnership
+   - Public (открытый)
+   - НЕ добавляйте README, .gitignore, license
+
+2. После создания выполните:
+   git remote add origin https://github.com/[YOUR_USERNAME]/gybernaty_techhy_partnership.git
+   git branch -M main
+   git push -u origin main
+
+3. Или через SSH:
+   git remote add origin git@github.com:[YOUR_USERNAME]/gybernaty_techhy_partnership.git
+   git branch -M main
+   git push -u origin main

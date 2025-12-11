@@ -292,7 +292,7 @@ Gybernaty использует **DAO (Decentralized Autonomous Organization)** �
 ### Документация Gybernaty
 
 - **Официальная документация:** https://docs.gyber.org/en/home
-- **Проекты:** LQD, SAPP, DSP, Contact, POWERSWAPMETA
+- **Проекты:** LQD, SAPP, DSP, Contact, SAPP, POWERSWAPMETA
 - **Сообщество:** Gybernaty Community
 
 ### Ключевые концепции
